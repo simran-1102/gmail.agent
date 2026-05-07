@@ -33,12 +33,12 @@ st.markdown("---")
 # ===================================
 
 email_text = st.text_area(
-    "📥 Enter Email",
+    " Enter Email",
     height=250
 )
 
 tone = st.selectbox(
-    "🎭 Reply Tone",
+    " Reply Tone",
     [
         "professional",
         "friendly",
@@ -49,7 +49,7 @@ tone = st.selectbox(
 )
 
 generate = st.button(
-    "🚀 Generate Response"
+    " Generate Response"
 )
 
 # ===================================
@@ -105,7 +105,7 @@ if generate:
         with col1:
 
             st.subheader(
-                "📌 Email Analysis"
+                " Email Analysis"
             )
 
             st.info(
@@ -117,7 +117,7 @@ if generate:
             )
 
             st.subheader(
-                "🧠 Email Summary"
+                " Email Summary"
             )
 
             st.write(summary)
@@ -125,7 +125,7 @@ if generate:
         with col2:
 
             st.subheader(
-                "✉️ AI Reply"
+                " AI Reply"
             )
 
             st.text_area(
