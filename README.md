@@ -1,23 +1,23 @@
-# 📧 SmartMail AI – Enterprise Email Automation System
+Gmail Agent 
 
-SmartMail AI is an industry-level intelligent email automation platform built using NLP and transformer-based AI models. The system automates email classification, tone-aware response generation, summarization, and workflow assistance through an interactive Streamlit dashboard.
-
----
-
-# 🚀 Features
-
-✅ AI-powered professional email reply generation  
-✅ Intelligent email classification  
-✅ Email summarization using transformer models  
-✅ Tone-aware response system  
-✅ Interactive Streamlit dashboard  
-✅ Modular enterprise-level architecture  
-✅ Gmail API integration support  
-✅ Logging and workflow tracking  
+This is an industry-level intelligent email automation platform built using NLP and transformer-based AI models. The system automates email classification, tone-aware response generation, summarization, and workflow assistance through an interactive Streamlit dashboard.
 
 ---
 
-# 🧠 AI Capabilities
+ Features
+
+AI-powered professional email reply generation  
+Intelligent email classification  
+Email summarization using transformer models  
+Tone-aware response system  
+Interactive Streamlit dashboard  
+Modular enterprise-level architecture  
+Gmail API integration support  
+Logging and workflow tracking  
+
+---
+
+AI Capabilities
 
 The system uses Hugging Face transformer models for:
 
@@ -29,7 +29,7 @@ The system uses Hugging Face transformer models for:
 
 ---
 
-# 🏗️ Project Architecture
+Project Architecture
 
 ```bash
 smartmail-ai/
@@ -60,7 +60,7 @@ smartmail-ai/
 
 ---
 
-# ⚙️ Technologies Used
+Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -73,7 +73,7 @@ smartmail-ai/
 
 ---
 
-# 🤖 AI Models Used
+AI Models Used
 
 | Model | Purpose |
 |---|---|
@@ -83,9 +83,9 @@ smartmail-ai/
 
 ---
 
-# ▶️ Installation
+Installation
 
-## 1️⃣ Clone Repository
+Clone Repository
 
 ```bash
 git clone <your-github-repo-link>
@@ -94,7 +94,7 @@ cd smartmail-ai
 
 ---
 
-## 2️⃣ Install Requirements
+Install Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ---
 
-## 3️⃣ Run Application
+ Run Application
 
 ```bash
 python -m streamlit run app.py
@@ -110,7 +110,7 @@ python -m streamlit run app.py
 
 ---
 
-# 🌐 Application Dashboard
+Application Dashboard
 
 The Streamlit dashboard provides:
 
@@ -123,7 +123,7 @@ The Streamlit dashboard provides:
 
 ---
 
-# 📌 Use Cases
+ Use Cases
 
 - Customer support automation
 - Smart email assistants
@@ -133,7 +133,7 @@ The Streamlit dashboard provides:
 
 ---
 
-# 📊 Future Enhancements
+ Future Enhancements
 
 - Real-time Gmail synchronization
 - Multi-language support
@@ -144,7 +144,7 @@ The Streamlit dashboard provides:
 
 ---
 
-# 💼 Project Highlights
+Project Highlights
 
 ✔ Enterprise-level architecture  
 ✔ Transformer-based NLP system  
@@ -154,13 +154,13 @@ The Streamlit dashboard provides:
 
 ---
 
-# 👨‍💻 Author
+Author
 
 Simran Singh
 
 ---
 
-# ⭐ Acknowledgements
+ Acknowledgements
 
 - Hugging Face
 - Streamlit
