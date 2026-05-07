@@ -1,0 +1,23 @@
+
+Time: 2026-05-07 12:11:04.970892
+Category: Meeting
+Tone: fear
+Email: hii i want o schedule an meeting 
+
+
+=========================
+
+Time: 2026-05-07 12:13:42.686308
+Category: Follow-up
+Tone: sadness
+Email: Hello Simran,
+
+Thanks for getting in touch with us about the Staff Software Engineer - Full Stack (Gurugram Based) position at Agoda. We were pleased to receive your application and hear that Agoda has sparked your interest.
+
+It was great looking through your qualifications, however, we are sadly unable to move forward with your candidacy. Having carefully reviewed many applications for this position, there are candidates whose profiles are more closely aligned with our requirements.
+
+That said, we’d love to keep your profile in our system for future reference. You can also stay connected with us via LinkedIn. The careers page can also keep you updated with exciting news and job opportunities.
+
+We appreciate your interest in Agoda and wish you the best of luck going forward.
+
+=========================
